@@ -1,0 +1,129 @@
+    body{
+      overflow-x: hidden;
+
+    }
+
+    .cuerpo{
+      justify-content: center ;
+
+    }
+
+    .card-deck{
+      padding-inline-start: 20px;
+
+    }
+
+   .container{
+      min-width: 100%;
+      color:rgb(168, 57, 12) ;
+
+    }
+
+    header{
+      background-color:  rgb(168, 57, 12);
+
+    }
+
+    header .container{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+    }
+
+    .navbar{
+      padding-left: 10px;
+
+    }
+
+    .container{
+      max-width: 1400px;
+      margin: auto;
+      height: 180px;
+
+    }
+
+    .navbar-brand{
+      font-family: 'Rye', cursive;
+      color: black;
+      font-size: 50px;
+    
+    }
+
+
+    .card-img-top{
+       height: 250px;
+       width: 250px;
+    }
+
+
+     img{
+       display:block;
+       margin:auto;
+
+    }
+
+
+    footer p{
+        margin: 0;
+        padding: 12px;
+        
+    }
+
+    footer .container{
+        justify-content: center;
+        display: flex;
+        align-items: flex-end;
+        
+    }
+
+    .red-social a{
+        text-decoration: none;
+        display: inline-block;
+        width: 100px;
+        height: 65px;
+        color: rgb(0, 0, 0);
+        transition: fill 170ms ease-in-out;
+        font-size: 30px;
+        
+        
+    }
+
+    .red-social :hover{
+    color:rgb(196, 151, 134) ;  
+    
+    }
+
+    .container{
+        background-color:white ;
+      
+    }
+
+
+    .styleBoton{
+        color: #020101;
+        background-color: #86611b;
+    
+    }
+
+    .styleBoton:hover{
+       color :rgb(0, 0, 0);
+        background-color:rgb(65, 52, 47);
+    }
+
+    .letra{
+        font-family: 'Rye', cursive;
+        padding-left: 20px;
+    }
+    .selec{
+        padding-left: 20px;
+    }
+
+    table thead {
+        background-color: #86611b;
+        color: white;
+    }
+
+   .botones{
+        padding-left: 20px;
+    }
